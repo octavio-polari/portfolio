@@ -45,7 +45,10 @@ section {
     margin: 0 auto;
 }
 
-.bio,
+.bio {
+    margin: 0px;
+}
+
 .portfolio,
 .contact {
     margin-bottom: 40px;
